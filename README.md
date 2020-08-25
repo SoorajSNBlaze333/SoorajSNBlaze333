@@ -1,6 +1,4 @@
-<div style="width: 100%; display: flex; justify-content: center">
-  <img src="./Sooraj.png" style="width: 250px" alt="me"/>
-</div>
+[Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Sooraj.png)
 
 # Hi there 👋 ...
 
