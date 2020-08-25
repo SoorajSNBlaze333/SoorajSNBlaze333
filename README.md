@@ -2,7 +2,7 @@
 
 # Hi there 👋 ...
 
-My name is Sooraj. I am a front-end developer and enthusiast. I work mainly on Vanilla JS, React JS, Angular JS and Typescript. I have also worked on Firebase and some other technologies.
+My name is Sooraj. I am a front-end developer and enthusiast. I work mainly on Vanilla JS, React JS, Angular JS and Typescript. I have also worked on Firebase and some other technologies. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/)
 
 Fun Facts about me:
 - 💻 Working as a Front End Developer at [Skcript](https://www.skcript.com/).
