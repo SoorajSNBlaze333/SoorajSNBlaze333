@@ -1,4 +1,4 @@
-[Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Sooraj.png)
+![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Sooraj.png)
 
 # Hi there 👋 ...
 
