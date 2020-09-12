@@ -10,3 +10,5 @@ Fun Facts about me:
 - ✐ Creating new and creative animations on the web.
 - 🎸 Guitarist. Metal and Rock Fan 🤘🏻.
 - 🎮 Playing Rocket League in free time.
+
+[![HitCount](http://hits.dwyl.com/SoorajSNBlaze333/SoorajSNBlaze333.svg)](http://hits.dwyl.com/SoorajSNBlaze333/SoorajSNBlaze333)
