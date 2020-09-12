@@ -11,4 +11,6 @@ Fun Facts about me:
 - 🎸 Guitarist. Metal and Rock Fan 🤘🏻.
 - 🎮 Playing Rocket League in free time.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=SoorajSNBlaze333&show_icons=true)
+
 [![HitCount](http://hits.dwyl.com/SoorajSNBlaze333/SoorajSNBlaze333.svg)](http://hits.dwyl.com/SoorajSNBlaze333/SoorajSNBlaze333)
