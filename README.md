@@ -11,4 +11,4 @@ Fun Facts about me:
 - 🎸 Guitarist. Metal and Rock Fan 🤘🏻.
 - 🎮 Playing Rocket League in free time.
 
-While you are here, stars to my repositories would be helpful 😊
+> While you are here, stars to my repositories would be much appreciated 🤘🏻
