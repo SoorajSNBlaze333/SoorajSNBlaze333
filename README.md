@@ -10,3 +10,5 @@ Fun Facts about me:
 - ✐ Creating new and creative animations on the web. ([iPhone7](https://iphone-7-ios13.netlify.app/))
 - 🎸 Guitarist. Metal and Rock Fan 🤘🏻.
 - 🎮 Playing Rocket League in free time.
+
+While you are here, stars to my repositories would be helpful 😊
