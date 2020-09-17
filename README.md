@@ -3,6 +3,7 @@
 ![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/GithubCoverHD.png)
 
 I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/).
+
 ![](https://komarev.com/ghpvc/?username=ySoorajSNBlaze333&style=flat-square)
 
 ### Fun Facts about me:
