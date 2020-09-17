@@ -1,15 +1,15 @@
-# Hi there, I'm Sooraj 👋 ...
+# Hi there, I'm Sooraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">...
 
 ![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/GithubCoverHD.png)
 
-I am a front-end developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/)
+I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/)
 
 ### Fun Facts about me:
-- 💻 Working as a Front End Developer at [Skcript](https://www.skcript.com/).
-- 💬 Currently developing a javascript tooltip utility package. ([Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence))
-- ✐ Creating new and creative [animations](https://iphone-7-ios13.netlify.app/) on the web.
-- 🎸 Guitarist. Metal and Rock Fan 🤘🏻.
-- 🎮 Playing Rocket League in free time.
+- 💻 Front End Developer at [Skcript](https://www.skcript.com/).
+- 💬 Creator of [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
+- ✐ [Animator](https://iphone-7-ios13.netlify.app/) on the web.
+- 🎸 Guitarist 🤘🏻.
+- 🎮 Rocket Leaguer.
 
 ### Blogs at [Skcript](https://www.skcript.com/)
 - [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/)
