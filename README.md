@@ -8,8 +8,8 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 
 ### Fun Facts about me:
 - 💻 Front End Developer at [Skcript](https://www.skcript.com/).
-- 💬 Creator of [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
-- ✐ [Animator](https://iphone-7-ios13.netlify.app/) on the web.
+- 💬 Developing a package called [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
+- ✐ Creating [animations](https://iphone-7-ios13.netlify.app/) on the web.
 - 🎸 Guitarist 🤘🏻.
 - 🎮 Rocket Leaguer.
 
