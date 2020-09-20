@@ -14,7 +14,7 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - 🎮 Rocket Leaguer.
 
 ### Blogs at [Skcript](https://www.skcript.com/)
-- [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/)
+- [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/) (Trending Article in 2019)
 - [How to create a simple physics engine - Part 2](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-2/)
 - [Finite state machines in React js using xstate](https://www.skcript.com/svr/finite-state-machines-in-react-js-using-xstate/)
 - [Getting started with Svelte JS](https://www.skcript.com/svr/getting-started-with-svelte-js/)
@@ -30,6 +30,5 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [iPhone 7 animated replica using HTML, CSS and Javascript](https://dev.to/soorajsnblaze333/creating-an-iphone-7-replica-on-the-web-38l1)
 - [Make it Rain 🌧 in HTML Canvas](https://dev.to/soorajsnblaze333/make-it-rain-in-html-canvas-1fj0) (My most viewed Article)
 - [Simple way to use the github REST api](https://dev.to/soorajsnblaze333/simple-way-to-use-the-github-api-705)
-- [How to create a Simple Physics Engine - Part 1](https://dev.to/soorajsnblaze333/how-to-create-a-simple-physics-engine-part-1-2ofh)
 
 > ### While you are here, stars to my repositories would be much appreciated 🤘🏻
