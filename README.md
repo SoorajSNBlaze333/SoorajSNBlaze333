@@ -30,6 +30,6 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [iPhone 7 animated replica using HTML, CSS and Javascript](https://dev.to/soorajsnblaze333/creating-an-iphone-7-replica-on-the-web-38l1)
 - [Make it Rain 🌧 in HTML Canvas](https://dev.to/soorajsnblaze333/make-it-rain-in-html-canvas-1fj0) (My most viewed Article)
 - [Simple way to use the github REST api](https://dev.to/soorajsnblaze333/simple-way-to-use-the-github-api-705)
-- [How to create a Simple Physics Engine](https://dev.to/soorajsnblaze333/how-to-create-a-simple-physics-engine-part-1-2ofh)
+- [How to create a Simple Physics Engine - Part 1](https://dev.to/soorajsnblaze333/how-to-create-a-simple-physics-engine-part-1-2ofh)
 
 > ### While you are here, stars to my repositories would be much appreciated 🤘🏻
