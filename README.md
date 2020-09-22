@@ -4,8 +4,6 @@
 
 I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/).
 
-![](https://komarev.com/ghpvc/?username=ySoorajSNBlaze333&style=flat-square)
-
 ### Fun Facts about me:
 - 💻 Front End Developer at [Skcript](https://www.skcript.com/).
 - 💬 Developing a package called [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
@@ -30,5 +28,9 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [iPhone 7 animated replica using HTML, CSS and Javascript](https://dev.to/soorajsnblaze333/creating-an-iphone-7-replica-on-the-web-38l1)
 - [Make it Rain 🌧 in HTML Canvas](https://dev.to/soorajsnblaze333/make-it-rain-in-html-canvas-1fj0) (My most viewed Article)
 - [Simple way to use the github REST api](https://dev.to/soorajsnblaze333/simple-way-to-use-the-github-api-705)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ySoorajSNBlaze333&style=flat-square" alt="profile views"/>
+</p>
 
 > ### While you are here, stars to my repositories would be much appreciated 🤘🏻
