@@ -29,8 +29,8 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [Make it Rain 🌧 in HTML Canvas](https://dev.to/soorajsnblaze333/make-it-rain-in-html-canvas-1fj0) (My most viewed Article)
 - [Simple way to use the github REST api](https://dev.to/soorajsnblaze333/simple-way-to-use-the-github-api-705)
 
+> ### While you are here, stars to my repositories would be much appreciated 🤘🏻
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ySoorajSNBlaze333&style=flat-square" alt="profile views"/>
 </p>
-
-> ### While you are here, stars to my repositories would be much appreciated 🤘🏻
