@@ -20,8 +20,8 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [Web Animation with GSAP](https://www.skcript.com/svr/web-animation-with-gsap/)
 - [Using Webpack with React Typescript](https://www.skcript.com/svr/using-webpack-with-react-typescript/)
 - [Build a “Pluggable” Widget for your Webapp](https://www.skcript.com/svr/build-a-pluggable-widget-for-your-webapp/)
-- [Asynchronous Data Fetching using React Query Part-1](https://www.skcript.com/svr/asynchronous-data-fetching-using-reactquery-part-1-queries/)
-- [Web-App using HTML, JS & Firebase Part-1](https://www.skcript.com/svr/web-app-using-html-js-firebase-part-1/)
+- [Asynchronous Data Fetching using React Query - Part 1](https://www.skcript.com/svr/asynchronous-data-fetching-using-reactquery-part-1-queries/)
+- [Web-App using HTML, JS & Firebase - Part 1](https://www.skcript.com/svr/web-app-using-html-js-firebase-part-1/)
 
 ### Dev.to Articles
 - [React JS - Bootstrap Starter kit](https://dev.to/soorajsnblaze333/react-js-bootstrap-starter-kit-3jlf)
