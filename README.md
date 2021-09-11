@@ -2,7 +2,7 @@
 
 ![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/GithubCoverHD.png)
 
-I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [https://soorajsnair333.netlify.app/](https://soorajsnair333.netlify.app/).
+I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [http://sooraj-portfolio.vercel.app/](http://sooraj-portfolio.vercel.app/).
 
 ### Fun Facts about me:
 - 💻 Front End Developer at [Skcript](https://www.skcript.com/).
