@@ -11,7 +11,7 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - 🎸 Guitarist 🤘🏻.
 - 🎮 Rocket Leaguer.
 
-### Blogs at [Skcript](https://www.skcript.com/)
+### My Articles
 - [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/) (Trending Article in 2019)
 - [How to create a simple physics engine - Part 2](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-2/)
 - [Finite state machines in React js using xstate](https://www.skcript.com/svr/finite-state-machines-in-react-js-using-xstate/)
@@ -22,8 +22,6 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [Build a “Pluggable” Widget for your Webapp](https://www.skcript.com/svr/build-a-pluggable-widget-for-your-webapp/)
 - [Asynchronous Data Fetching using React Query - Part 1](https://www.skcript.com/svr/asynchronous-data-fetching-using-reactquery-part-1-queries/)
 - [Web-App using HTML, JS & Firebase - Part 1](https://www.skcript.com/svr/web-app-using-html-js-firebase-part-1/)
-
-### Dev.to Articles
 - [React JS - Bootstrap Starter kit](https://dev.to/soorajsnblaze333/react-js-bootstrap-starter-kit-3jlf)
 - [React TS - Webpack - Starter kit](https://dev.to/soorajsnblaze333/react-ts-webpack-starter-1enk)
 - [New version for Tooltip-Sequence 1.0.3 🔥](https://dev.to/soorajsnblaze333/new-version-for-tooltip-sequence-1-0-3-59oh)
