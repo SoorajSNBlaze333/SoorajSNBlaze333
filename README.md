@@ -1,6 +1,6 @@
 # Hi there, I'm Sooraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">...
 
-![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/GithubCoverHD.png)
+![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png)
 
 I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [http://sooraj-portfolio.vercel.app/](http://sooraj-portfolio.vercel.app/).
 
