@@ -5,7 +5,7 @@
 I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [http://sooraj-portfolio.vercel.app/](http://sooraj-portfolio.vercel.app/).
 
 ### Fun Facts about me:
-- 💻 Front-End Developer.
+- 💻 Front-End Developer at Aquent/John Deere.
 - 💬 Developing a package called [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
 - ✐ Creating [animations](https://iphone-7-ios13.netlify.app/) on the web.
 - 🎸 Guitarist 🤘🏻.
