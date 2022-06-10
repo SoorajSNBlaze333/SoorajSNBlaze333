@@ -9,7 +9,7 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - 💬 Developing a package called [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
 - ✐ Creating [animations](https://iphone-7-ios13.netlify.app/) on the web.
 - 🎸 Guitarist 🤘🏻.
-- 🎮 Rocket Leaguer.
+- 🎮 Rocket League with ❤️.
 
 ### My Articles
 - [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/) (Trending Article in 2019)
