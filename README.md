@@ -28,6 +28,8 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - [iPhone 7 animated replica using HTML, CSS and Javascript](https://dev.to/soorajsnblaze333/creating-an-iphone-7-replica-on-the-web-38l1)
 - [Make it Rain 🌧 in HTML Canvas](https://dev.to/soorajsnblaze333/make-it-rain-in-html-canvas-1fj0) (My most viewed Article)
 - [Simple way to use the github REST api](https://dev.to/soorajsnblaze333/simple-way-to-use-the-github-api-705)
+- [Web-App using HTML, JS & Firebase - Part 2](https://dev.to/soorajsnblaze333/web-app-using-html-js-firebase-part-2-439p)
+- [Simple Javascript Modules - Local Storage Module](https://dev.to/soorajsnblaze333/simple-javascript-modules-local-storage-module-567p)
 
 > ### While you are here, stars to my repositories would be much appreciated 🤘🏻
 
