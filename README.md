@@ -11,6 +11,15 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 - 🎸 Guitarist 🤘🏻.
 - 🎮 Rocket League with ❤️.
 
+### Languages I'm familiar with
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,java,rust)](https://skillicons.dev)
+
+### My Tech stack
+[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,bootstrap,express,firebase,vite,vercel,jest,rollupjs,webpack,blender)](https://skillicons.dev)
+
+### Tools I use
+[![Tools](https://skillicons.dev/icons?i=vscode,github,bash,figma)](https://skillicons.dev)
+
 ### My Articles
 - [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/) (Trending Article in 2019)
 - [How to create a simple physics engine - Part 2](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-2/)
