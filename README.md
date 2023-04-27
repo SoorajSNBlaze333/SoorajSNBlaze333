@@ -15,7 +15,7 @@ I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS,
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,java,swift,rust)](https://skillicons.dev)
 
 ### My Tech stack
-[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,,vite,vercel,netlify,jest,rollupjs,webpack,blender)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,vite,vercel,netlify,jest,rollupjs,webpack,blender)](https://skillicons.dev)
 
 ### Tools I use
 [![Tools](https://skillicons.dev/icons?i=vscode,github,bash,figma)](https://skillicons.dev)
