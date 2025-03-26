@@ -1,4 +1,4 @@
-# Hi there, I'm Sooraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
+# Hi there, I'm Sooraj Sivadasan Nair
 
 ![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png)
 
